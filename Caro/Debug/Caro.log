@@ -1,0 +1,8 @@
+﻿  Caro.cpp
+C:\Users\phamc\Downloads\source-caro\source-caro\source-caro\source caro\Caro.cpp(425,15): warning C4101: 'wmEvent': unreferenced local variable
+  (compiling source file '/Caro.cpp')
+  
+C:\Users\phamc\Downloads\source-caro\source-caro\source-caro\source caro\Caro.cpp(425,9): warning C4101: 'wmId': unreferenced local variable
+  (compiling source file '/Caro.cpp')
+  
+  Caro.vcxproj -> C:\Users\phamc\Downloads\source-caro\source-caro\source-caro\source caro\Debug\Caro.exe
